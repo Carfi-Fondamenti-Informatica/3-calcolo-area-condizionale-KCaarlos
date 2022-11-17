@@ -7,7 +7,7 @@ float a=0,b=0;
 
 cin>>a>>b;
     
-int opzione=0;
+int opzione;
    
 cin>>opzione;
     
