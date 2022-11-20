@@ -13,14 +13,18 @@ cin>>opzione;
     
    switch (opzione) {
          
-        case 0:cout<<((a*b)/2)<<endl;
+        case 0:
+           cout<< ((a*b)/2) <<endl;
             break;
-        case 1:cout<<(a*a)<<endl;
+        case 1:
+           cout<< a*a <<endl;
             break;
-        case 2:cout<<(a*b)<<endl;
+        case 2:
+           cout<< a*b <<endl;
             break;
         default:
             cout<<"opzione non valida"<<endl;
+   }        
          
    return 0;
 }
