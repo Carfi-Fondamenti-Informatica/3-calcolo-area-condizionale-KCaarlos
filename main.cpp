@@ -20,7 +20,7 @@ cin>>opzione;
         case 2:cout<<(a*b)<<endl;
             break;
         default:
-            cout<<"stringa non valida"<<endl;
+            cout<<"opzione non valida"<<endl;
          
    return 0;
 }
